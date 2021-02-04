@@ -4,7 +4,8 @@
 We are building this platform to help the student to apply for a Ph.D. position. This platform is a Single Page Application that includes user registration, student/teacher list, real-time chatting, etc.
 
 ## Preview
-![](PHDoffer.png)
+<img src="phdoffer.gif" width=250 alt="phdoffer"/>
+
 ## Tech stack:
 - Developed a full stack mobile single page application (SPA) to search and apply for Ph.D. positions utilized **react-router-dom**.
 - Customized user register, login/logout, and message list components utilized **React, Redux, Ant-mobile, ES6, and Webpack**.
