@@ -3,7 +3,7 @@
 ## About This Project
 We are building this platform to help the student to apply for a Ph.D. position. This platform is a Single Page Application that includes user registration, student/teacher list, real-time chatting, etc.
 
-## Preview
+## Preview (we are still developing)
 <img src="phdoffer.gif" width=250 alt="phdoffer"/>
 
 ## Tech stack:
